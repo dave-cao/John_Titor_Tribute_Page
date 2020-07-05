@@ -1,0 +1,36 @@
+html {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    line-height: 2;
+  }
+  @media (min-width: 1000px) {
+    html {
+       width: 50vw;
+       text-align: center;
+       padding: 0 450px;
+    }
+  }
+  body {
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  ul {
+    font-style: italic;
+    color: lightgreen;
+    text-align: left;
+  }
+  h1 {
+    color: orange;
+  }
+  h3 {
+    color: orange;
+  }
+  a {
+    color: pink;
+  }
