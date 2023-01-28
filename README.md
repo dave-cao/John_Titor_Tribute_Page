@@ -3,4 +3,4 @@ This was my first project with HTML and CSS. I learned the basic functions of di
 
 Later on I will tweak this to my liking! :D. 
 
-Link to my tribute page: https://king-cao.github.io/John_Titor_Tribute_Page/.
+Link to my tribute page: https://dave-cao.github.io/John_Titor_Tribute_Page/
